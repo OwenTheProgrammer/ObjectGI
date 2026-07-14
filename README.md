@@ -1,2 +1,3 @@
 # ObjectGI
-The shaders I made for ObjectGI a long time ago
+
+A long time ago, I showcased a lighting system called ObjectGI. Over time, I'll start adding the shaders for that project here. Do what you wish with them, I really don't care much about this project anymore, but I would like to see this system in peoples hands since I feel VRCLV is overused in some cases, among other things. I don't have time for documentation, nor much prefab work; hell I'm already screwing myself over taking the time to publish these. I know it will matter to someone, and I may not regret pushing this to the world preemptively. I appreciate attribution if you end up using the system somewhere, it fuels my fire to build more things :purple_heart:
